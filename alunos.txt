@@ -1,0 +1,1 @@
+[{"Nome":"a","DtNascimento":"2022-05-31T00:00:00+01:00","Genero":"Feminino","Email":"a@","Contacto":"a","NumAluno":2}]
